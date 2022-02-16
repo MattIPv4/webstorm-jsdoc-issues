@@ -1,0 +1,14 @@
+{
+  "name": "webstorm-jsdoc-issues",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattIPv4/webstorm-jsdoc-issues.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MattIPv4/webstorm-jsdoc-issues/issues"
+  },
+  "homepage": "https://github.com/MattIPv4/webstorm-jsdoc-issues#readme",
+  "dependencies": {
+    "markdown-it": "^12.3.2"
+  }
+}
